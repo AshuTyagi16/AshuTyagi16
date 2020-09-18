@@ -3,7 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashutyagi16" alt="ashutyagi16" /> </p>
 
-- 🔭 I’m currently working on [Launcher-OnePlus](https://github.com/AshuTyagi16/Launcher-OnePlus)
+---
+Im currently working on
+
+[![Launcher](https://github-readme-stats.venipa.vercel.app/api/pin/?username=AshuTyagi16&repo=Launcher-OnePlus)](https://github.com/AshuTyagi16/Launcher-OnePlus)
 
 - 🌱 I’m currently learning **Node.js**
 
@@ -14,19 +17,25 @@
 - 💬 Ask me about **Android, Kotlin, Node and Mongo**
 
 - 📫 How to reach me **ashu.knock@gmail.com**
+---
+### Connect with me:
 
+[<img align="left" alt="AshuTyagi16 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="AshuTyagi16 | StackOverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />][stackoverflow]
+[<img align="left" alt="AshuTyagi16 | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
+</br>
+---
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
-
+---
+### Languages and Tools:
 <p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashutyagi16&layout=compact" alt="ashutyagi16" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashutyagi16&show_icons=true" alt="ashutyagi16" /></p>
 
-<p align="center">
-<a href="https://linkedin.com/in/ashutyagi16" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ashutyagi16" height="30" width="30" /></a>
-<a href="https://stackoverflow.com/users/6570945" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="6570945" height="30" width="30" /></a>
-<a href="https://medium.com/@ashu.knock" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@ashu.knock" height="30" width="30" /></a>
-</p>
+[linkedin]: https://linkedin.com/in/ashutyagi16
+[stackoverflow]: https://stackoverflow.com/users/6570945
+[medium]: https://medium.com/@ashu.knock

@@ -27,6 +27,7 @@ Im currently working on
 ---
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Binders In Android (part 1)](https://medium.com/mindorks/binders-in-android-part-1-e875daeb762f?source=rss-51a41ea8aaad------2)
 - [Bounce effect in RecyclerView](https://medium.com/mindorks/bounce-effect-in-recyclerview-6463a7f81e5?source=rss-51a41ea8aaad------2)
 - [What the heck is Lopper and Handler?](https://blog.usejournal.com/what-the-heck-is-lopper-and-handler-5d61b17b67c0?source=rss-51a41ea8aaad------2)
 <!-- BLOG-POST-LIST:END -->

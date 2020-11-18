@@ -27,7 +27,7 @@ Im currently working on
 ---
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Instagram Like Chat Theme Animation](https://medium.com/design-bootcamp/instagram-like-chat-theme-animation-32cc56b483ed?source=rss-51a41ea8aaad------2)
+- [Case study: Building an Instagram-like chat theme animation](https://medium.com/design-bootcamp/instagram-like-chat-theme-animation-32cc56b483ed?source=rss-51a41ea8aaad------2)
 - [Binders In Android (part II): Reference Counting & Death Recipients](https://proandroiddev.com/binders-in-android-part-ii-reference-counting-death-recipients-19d55c8356c3?source=rss-51a41ea8aaad------2)
 - [Binders In Android (part 1)](https://proandroiddev.com/binders-in-android-part-1-e875daeb762f?source=rss-51a41ea8aaad------2)
 - [Bounce effect in RecyclerView](https://medium.com/mindorks/bounce-effect-in-recyclerview-6463a7f81e5?source=rss-51a41ea8aaad------2)

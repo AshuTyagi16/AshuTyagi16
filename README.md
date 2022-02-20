@@ -4,9 +4,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashutyagi16" alt="ashutyagi16" /> </p>
 
 ---
-Im currently working on
-
-[![Launcher](https://github-readme-stats.venipa.vercel.app/api/pin/?username=AshuTyagi16&repo=Launcher-OnePlus)](https://github.com/AshuTyagi16/Launcher-OnePlus)
 
 - 🌱 I’m currently learning **Node.js**
 

@@ -5,10 +5,6 @@
 
 ---
 
-- 🌱 I’m currently learning **Node.js**
-
-- 👯 I’m looking to collaborate on [Launcher-OnePlus](https://github.com/AshuTyagi16/Launcher-OnePlus)
-
 - 📝 I regulary write articles on [https://medium.com/@ashu.knock](https://medium.com/@ashu.knock)
 
 - 💬 Ask me about **Android, Kotlin, Node and Mongo**

@@ -13,10 +13,10 @@
 ---
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Case study: Building an Instagram-like chat theme animation](https://bootcamp.uxdesign.cc/instagram-like-chat-theme-animation-32cc56b483ed?source=rss-51a41ea8aaad------2)
-- [Binders In Android &lpar;part II&rpar;: Reference Counting &amp; Death Recipients](https://medium.com/@ashu.knock/binders-in-android-part-ii-reference-counting-death-recipients-19d55c8356c3?source=rss-51a41ea8aaad------2)
 - [Binders In Android &lpar;part 1&rpar;](https://medium.com/@ashu.knock/binders-in-android-part-1-e875daeb762f?source=rss-51a41ea8aaad------2)
+- [Binders In Android &lpar;part II&rpar;: Reference Counting &amp; Death Recipients](https://medium.com/@ashu.knock/binders-in-android-part-ii-reference-counting-death-recipients-19d55c8356c3?source=rss-51a41ea8aaad------2)
 - [Bounce effect in RecyclerView](https://medium.com/mindorks/bounce-effect-in-recyclerview-6463a7f81e5?source=rss-51a41ea8aaad------2)
+- [Case study: Building an Instagram-like chat theme animation](https://bootcamp.uxdesign.cc/instagram-like-chat-theme-animation-32cc56b483ed?source=rss-51a41ea8aaad------2)
 <!-- BLOG-POST-LIST:END -->
 ---
 
